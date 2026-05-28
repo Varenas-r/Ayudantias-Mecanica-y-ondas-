@@ -10,6 +10,5 @@ Ayudantias de Mecanica y Ondas. 2026-10
 - [Ayudantia 7](build/Ayudantia-7.pdf)
 - [Ayudantia 8](build/Ayudantia-8.pdf)
 
-ola
 
 
